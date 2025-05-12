@@ -11,7 +11,7 @@ A simple Hotel Management System built using **Java**. This project allows hotel
 
 ## 🛠️ Technologies Used
 
-- Java (Core)
+- Java 
 - File handling in Java (for storing data)
 - Command Line Interface (CLI)
 
